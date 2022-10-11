@@ -1,7 +1,14 @@
 import './App.css';
+import Header from './components/Header';
+import Hero from './components/Hero';
 
 function App() {
-  return <h1>Create React App</h1>;
+  return (
+    <div className="App">
+      <Header />
+      <Hero />
+    </div>
+  );
 }
 
 export default App;
