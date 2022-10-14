@@ -1,0 +1,16 @@
+.product-item {
+    width: 50%;
+    align-items: center;
+}
+
+.product-image {
+    width: 170px;
+    height: 180px;
+    border-radius: 5px;
+}
+
+.product {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+}

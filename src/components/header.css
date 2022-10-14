@@ -1,7 +1,6 @@
 .header-container {
     display: flex;
     justify-content: space-between;
-    border: 1px dashed red;
     padding: 10px 20px;
     background-color: #fff;
 }
@@ -13,8 +12,25 @@
     gap: 15px;
 }
 
+.main-header {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
 .header-right {
     display: flex;
     align-items: center;
     gap: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.line {
+    width: 23px;
+    height: 2px;
+    margin: 5px 0;
+    background-color: #000;
 }
