@@ -1,36 +1,23 @@
-.header-container {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: #fff;
-}
-
-.nav-bar {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-}
 
 .main-header {
-    text-decoration: none;
-    color: #000;
-    font-size: 20px;
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
 }
 
 .header-right {
-    display: flex;
-    align-items: center;
-    gap: 15px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
 
 .line {
-    width: 23px;
-    height: 2px;
-    margin: 5px 0;
-    background-color: #000;
+  width: 23px;
+  height: 2px;
+  margin: 5px 0;
+  background-color: #000;
 }
