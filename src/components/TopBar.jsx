@@ -1,7 +1,8 @@
 import React from 'react';
 import './header.css';
 import { BsFillTelephoneFill } from 'react-icons/bs';
-import { AiOutlineMail } from 'react-icons/ai';
+import { AiOutlineMail, AiFillFacebook } from 'react-icons/ai';
+import { FaInstagramSquare } from 'react-icons/fa';
 
 const TopBar = () => (
   <div className="flex justify-between px-5 py-3 bg-black">
@@ -16,7 +17,11 @@ const TopBar = () => (
       </div> 
     </div>
 
-    <div className="header-right">
+    <div className="flex gap-6 items-cneter">
+      <p className="text-white">Follow us on</p>
+      <AiFillFacebook className="text-white"/>
+      <FaInstagramSquare className="text-white" />
+
       
     </div>
   </div>
