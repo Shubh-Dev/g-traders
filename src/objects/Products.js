@@ -4,7 +4,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -12,7 +13,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -20,7 +22,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -28,7 +31,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -36,7 +40,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -44,7 +49,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -52,7 +58,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -60,7 +67,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -68,7 +76,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas',
     addToCart: false,
   },
   {
@@ -76,7 +85,8 @@ const products = [
     name: 'Toilet',
     price: 100,
     image: 'toilet-1.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas ',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem voluptas ',
     addToCart: false,
   },
 ];

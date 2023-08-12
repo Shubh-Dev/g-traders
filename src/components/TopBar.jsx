@@ -14,18 +14,15 @@ const TopBar = () => (
       <div className="text-white flex items-center">
         <AiOutlineMail />
         <span className="ml-1">Info@gopaltraders.com</span>
-      </div> 
+      </div>
     </div>
 
     <div className="flex gap-6 items-cneter">
       <p className="text-white">Follow us on</p>
-      <AiFillFacebook className="text-white"/>
+      <AiFillFacebook className="text-white" />
       <FaInstagramSquare className="text-white" />
-
-      
     </div>
   </div>
-
 );
 
 export default TopBar;

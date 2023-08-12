@@ -17,6 +17,9 @@ describe('Hero', () => {
   it('Loads the image on the page correctly', () => {
     render(<Hero />);
     const heroImage = screen.getByRole('img');
-    expect(heroImage).toHaveAttribute('src', 'https://unsplash.com/photos/g51F6-WYzyU');
+    expect(heroImage).toHaveAttribute(
+      'src',
+      'https://unsplash.com/photos/g51F6-WYzyU'
+    );
   });
 });
