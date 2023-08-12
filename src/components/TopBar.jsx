@@ -5,7 +5,7 @@ import { AiOutlineMail, AiFillFacebook } from 'react-icons/ai';
 import { FaInstagramSquare } from 'react-icons/fa';
 
 const TopBar = () => (
-  <div className="flex justify-between px-5 py-3 bg-black">
+  <div className="hidden sm:flex justify-between px-5 py-3 bg-black">
     <div className="flex">
       <div className="text-white flex items-center">
         <BsFillTelephoneFill />
@@ -13,7 +13,7 @@ const TopBar = () => (
       </div>
       <div className="text-white flex items-center">
         <AiOutlineMail />
-        <span className='ml-1'>Info@gopaltraders.com</span>
+        <span className="ml-1">Info@gopaltraders.com</span>
       </div> 
     </div>
 
