@@ -19,7 +19,7 @@ describe('Hero', () => {
     const heroImage = screen.getByRole('img');
     expect(heroImage).toHaveAttribute(
       'src',
-      'https://unsplash.com/photos/g51F6-WYzyU'
+      'https://unsplash.com/photos/g51F6-WYzyU',
     );
   });
 });

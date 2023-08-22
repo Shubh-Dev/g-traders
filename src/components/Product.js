@@ -15,7 +15,10 @@ const Product = () => (
         </div>
         <h3>{product.name}</h3>
         <p>{product.description}</p>
-        <h4>${product.price}</h4>
+        <h4>
+          $
+          {product.price}
+        </h4>
       </div>
     ))}
   </div>
