@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero renders correctly 1`] = `
+<div>
+  <div
+    class="hero-container"
+  >
+    <img
+      alt="bathroom"
+      src="https://unsplash.com/photos/g51F6-WYzyU"
+    />
+  </div>
+</div>
+`;
