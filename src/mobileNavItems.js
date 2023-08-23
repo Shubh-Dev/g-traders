@@ -7,7 +7,7 @@ import { TbNotebook } from 'react-icons/tb';
 import { MdOutlineWifiFind } from 'react-icons/md';
 import { PiTruckDuotone } from 'react-icons/pi';
 import { CiHeart } from 'react-icons/ci';
-import { LiaFastForwardSolid } from 'react-icons/lia'
+import { LiaFastForwardSolid } from 'react-icons/lia';
 
 const mobileNavItems = [
   {
@@ -77,7 +77,7 @@ const mobileNavItems2 = [
     id: 11,
     name: 'Login / Register',
     path: '/auth/login',
-    icon: <LiaFastForwardSolid />
+    icon: <LiaFastForwardSolid />,
   },
 ];
 
